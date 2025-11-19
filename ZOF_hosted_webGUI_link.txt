@@ -1,4 +1,4 @@
 Omeike Raphael
 22CG031930
-https://zof-431.streamlit.app/
-https://github.com/T-tobs/ZOF_project
+https://csc431assignment2-zqbtn6veyyk6p2gseesd9h.streamlit.app/
+https://github.com/RaphaelOmeike/CSC431_Assignment2
